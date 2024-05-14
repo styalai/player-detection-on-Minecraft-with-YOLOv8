@@ -1,10 +1,10 @@
 # Model yolov8 fine tune for player detection on minecraft
 
-Info :
+**Info :**
 Fine tune on https://hub.ultralytics.com/
 The model is store in : "player_detection on minecraft 04 (gpu).pt"
 
-Tuto
+**Tuto :**
 You can easely reproduce this for any things. There are many tutorials for it.
 
 First create a dataset with a special organization describe in https://docs.ultralytics.com/datasets/detect/#ultralytics-yolo-format 
