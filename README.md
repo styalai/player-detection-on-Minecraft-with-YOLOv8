@@ -5,7 +5,7 @@ Fine tune on https://hub.ultralytics.com/
 The model is store in : "player_detection on minecraft 04 (gpu).pt"
 
 ##**Tuto :**
-You can easely reproduce this for any things. There are many tutorials for it.
+You can easely reproduce this for any things. There are many tutorials for it ex : https://medium.com/@arthur.lagacherie/implement-the-xlstm-paper-from-scratch-with-pytorch-3a2a4ddb4f94.
 
 * First create a dataset with a special organization describe in https://docs.ultralytics.com/datasets/detect/#ultralytics-yolo-format 
 I use https://www.cvat.ai/ for create my dataset it's very simple.
